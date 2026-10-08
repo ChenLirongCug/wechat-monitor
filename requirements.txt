@@ -1,0 +1,7 @@
+PySide6-Essentials
+mss
+rapidocr-onnxruntime
+pyautogui
+requests
+Pillow
+numpy
